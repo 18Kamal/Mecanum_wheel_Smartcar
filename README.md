@@ -100,12 +100,15 @@ Bluetooth Module:
 ### 🎥 Video Demonstration
 ---
 
-
 https://github.com/user-attachments/assets/93c06f23-17a9-4f16-9394-6318988b5f13
 
-
-
 https://github.com/user-attachments/assets/e1e55ff7-4ffa-4e40-a549-7270eccaefb4
+
+
+## 👤 
+**Kamal Bishowkarma**  
+Bachelor of Mechanical Engineering and Automation Technology  
+Hainan Normal University, China 
 
 
 
