@@ -5,9 +5,10 @@ This project presents the design and development of a smart Mecanum wheel vehicl
 ---
 
 ## 🔧 Features
-The operational logic of the system begins with the initialization of the system once the vehicle is powered on. The user is first prompted to select between two operating modes: Manual or Auto. In Manual Mode, control is handed over to the user via a smartphone application connected through the HC-05 Bluetooth module. User can move the car in any direction (forward, backward, left, right, diagonal, rotation and so on). The system operates in the same mode until the user give the command to change to the Auto mode. Once the user set the mode to Auto mode, it starts to move forward automatically following the black path. The system moves toward the front if the black lines from either side is not detected. The obstacle and path checking sequence runs automatically until the user returns to the Manual mode setting. Through manual and auto mode the system can operates efficiently in different situations even in the confined spaces. 
+The operational logic of the system begins with the initialization of the system once the vehicle is powered on. The user is first prompted to select between two operating modes: Manual or Auto.
 
 - **Auto Mode:**  
+  - Move forward automatically following the black path
   - Detects obstacles using ultrasonic sensor (HC-SR04) mounted on a servo motor  
   - Stops vehicle when an obstacle is detected and resumes when clear  
 - **Manual Mode:**  
@@ -96,7 +97,12 @@ Bluetooth Module:
 ---
 ![HC_05 bluetooth module](https://github.com/user-attachments/assets/09cbc151-23bc-4ec0-9702-4c3d954c56f1)
 
+Remote Controller App:
+---
+![Final_RC_ app](https://github.com/user-attachments/assets/a4c4ca2d-17db-4d3f-a95c-b4ec35b5ba7a)
 
+To download this app click this link(Note:This is only for Android): https://ai2.appinventor.mit.edu/b/5y19d
+-
 ### 🎥 Video Demonstration
 ---
 
